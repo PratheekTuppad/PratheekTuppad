@@ -30,7 +30,7 @@
 
 | | |
 |:--|:--|
-| 👤 **Name** | Pratheek Tuppad |
+| 👤 **Name** | Pratheek RT |
 | 💼 **Role** | Associate SAP Consultant |
 | ⏱️ **Experience** | 1+ Year |
 | 🎯 **Specialization** | SAP Integration Suite · SAP CPI · SAP S/4HANA Integration |
